@@ -1,0 +1,9 @@
+{
+	"name": "aluradatabricks",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a2f9077e-bbbf-46df-ab17-6a8f295d96e2",
+		"tenantId": "ed113f3e-3c92-43e3-bce6-0b29472540b3"
+	}
+}
